@@ -1,6 +1,3 @@
-<picture>
-  <img alt="Workflow Use logo" src="./static/workflow-use.png"  width="full">
-</picture>
 
 <br />
 
